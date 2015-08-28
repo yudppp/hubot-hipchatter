@@ -1,0 +1,34 @@
+{
+  "name": "hubot-hipchatter",
+  "version": "0.0.1",
+  "description": "hipchatter wrapping hubot script ",
+  "engines": {
+    "node" : "~0.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yudppp/hubot-hipchatter.git"
+  },
+  "keywords": [
+    "hipchat",
+    "hip",
+    "chat",
+    "hip",
+    "atlassian",
+    "hipchatter",
+    "api",
+    "hubot"
+  ],
+  "author": "yudppp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yudppp/hubot-hipchatter/issues"
+  },
+  "homepage": "https://github.com/yudppp/hubot-hipchatter",
+  "dependencies": {
+    "hipchatter": "^0.2.0"
+  }
+}
